@@ -1,0 +1,2 @@
+"0","covid_table %>%"
+"0","  knitr::kable()"

@@ -3,22 +3,25 @@
     "path": "D:/OneDrive - Emory/Third Year/Spring 2026/Advance Statistical Computing/example_project/example_project/analysis/exploratory_analysis.Rmd",
     "project_path": "analysis/exploratory_analysis.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "782989740",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1768494898004.0,
     "source_on_save": false,
     "relative_order": 7,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "38,0",
+        "scrollLine": "29",
+        "last_setup_crc32": "ecabe03f238ab164"
     },
     "folds": "",
     "lastKnownWriteTime": 1768492704,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1768492704,
+    "last_content_update": 1768495659741,
     "read_only": false,
     "read_only_alternatives": []
 }

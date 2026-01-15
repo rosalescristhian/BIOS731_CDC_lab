@@ -35,7 +35,9 @@ This document is for exploratory analysis of the two datasets.
 
 ```{r}
 list.files(here::here("source"))
-source(here::here("source", "01_data_download.R"))
+
+load(here::here("data", "raw.Rdata"))
+
 ```
 
 
